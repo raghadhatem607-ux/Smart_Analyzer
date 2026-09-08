@@ -1,5 +1,7 @@
 # Smart_Analyzer
  A simple Python script to detect failed login attempts and security warnings from log files (Brute Force Attack)
+ Sample Output:
+ 
 --- Starting Log Analysis ---
 
 [ALERT DETECTED]: 2026-09-08 10:01:15 - WARNING - Failed password for user root from 192.168.1.50
