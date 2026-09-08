@@ -1,0 +1,5 @@
+2026-09-08 10:00:01 - INFO - User admin logged in successfully
+2026-09-08 10:01:15 - WARNING - Failed password for user root from 192.168.1.50
+2026-09-08 10:01:20 - WARNING - Failed password for user root from 192.168.1.50
+2026-09-08 10:01:25 - WARNING - Failed password for user root from 192.168.1.50
+2026-09-08 10:05:00 - ERROR - Unauthorized access attempt detected on port 22
